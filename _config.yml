@@ -1,11 +1,7 @@
 ```yaml
-#theme: jekyll-theme-minimal
-#title: 💻✒️📄🌟
 theme: jekyll-theme-cayman
 description: Abe's CV
 title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
-show_downloads: true
 google_analytics:
 
 ```
